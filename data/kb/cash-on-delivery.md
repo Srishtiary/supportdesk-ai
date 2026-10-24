@@ -9,7 +9,7 @@ Cash on Delivery orders are subject to the following rules and service criteria:
 - **Convenience Fee Structure**:
   - Orders of Rs 2,000 and above qualify for completely free COD processing.
   - Orders below Rs 2,000 incur a standard COD convenience fee of Rs 40.
-- **Shipping Thresholds Apply**: If your overall order value is below Rs 999, the standard shipping charge of Rs 49 is added alongside the COD fee. Orders above Rs 999 receive free standard shipping.
+- **Shipping Thresholds Apply**: If your overall order value is below Rs 999, the standard shipping charge of Rs 49 is added alongside the COD fee. Orders of Rs 999 or above receive free standard shipping.
 - **Pincode Verification**: COD eligibility depends on courier partner coverage; some remote or restricted postal codes may require prepaid checkout.
 
 ## Delivery Acceptance and Handover Procedures

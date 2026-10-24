@@ -24,5 +24,5 @@ Here is what each status milestone in your dashboard indicates:
 If your parcel encounters delays or delivery exceptions:
 - **Severe Weather / Transit Restrictions**: In case of transport disruptions, the estimated delivery date on your tracking page will automatically update.
 - **Failed Delivery Attempts**: If you are unavailable, the courier will make up to three attempts on consecutive business days before redirecting the parcel to our hub.
-- **Missing or Stuck Packages**: If your tracking status remains unchanged for more than 48 hours without delivery, reach out to VoltKart Customer Care at 1800-890-VOLT or support@voltkart.in.
+- **Missing or Stuck Packages**: If your tracking status remains unchanged for more than 48 hours without delivery, reach out to VoltKart Customer Care at 1800-890-VOLT (open 9:00 AM to 9:00 PM IST daily) or support@voltkart.in.
 - **Cancellation Due to Non-Delivery**: If a delayed order cannot be fulfilled, it will be cancelled with a 100% full refund returned to your source account within 5-7 business days.

@@ -8,7 +8,7 @@ All prices displayed on VoltKart are inclusive of applicable Goods and Services 
 - **Retail Customers**: Every shipment includes an official GST tax invoice showing base price, CGST, SGST, or IGST breakdowns, and serial numbers of the dispatched items.
 - **Business Purchases (B2B)**: Registered businesses can enter a valid 15-digit GSTIN and company legal name during checkout. A compliant GST B2B invoice will be generated, enabling your business to claim Input Tax Credit (ITC).
 - **Download Invoices**: Digital copies of your GST invoices are retained permanently in your account and can be downloaded anytime under "My Orders".
-- Free standard shipping applies to all orders with total invoice value exceeding Rs 999; orders of Rs 999 or lower carry a flat Rs 49 delivery fee.
+- Free standard shipping applies to all orders with total invoice value of Rs 999 or above; orders below Rs 999 carry a flat Rs 49 delivery fee.
 
 ## 7-Day Price Drop Protection Guarantee
 

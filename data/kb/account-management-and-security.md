@@ -6,7 +6,7 @@ Managing your VoltKart account is easy and secure, providing centralized access 
 
 Setting up and maintaining your profile ensures a seamless electronics shopping experience:
 - **Registration**: You can create an account using a valid 10-digit Indian mobile number or email address. A One-Time Password (OTP) verification is required to complete signup.
-- **Address Book**: Save multiple delivery addresses (Home, Office, Other) with complete pincodes, landmarks, and contact numbers. Accurate pincodes ensure accurate shipping rates (such as free delivery above Rs 999 or the Rs 49 fee for smaller carts).
+- **Address Book**: Save multiple delivery addresses (Home, Office, Other) with complete pincodes, landmarks, and contact numbers. Accurate pincodes ensure accurate shipping rates (such as free delivery on orders of Rs 999 or above, or the Rs 49 fee for orders below Rs 999).
 - **Editing Information**: Update your primary email, phone number, and billing details under "Account Settings" > "Profile". Changing your registered mobile number requires OTP verification on both old and new numbers.
 - **GST Information**: Save your 15-digit GSTIN under business details to streamline automatic B2B tax invoice generation for all future purchases.
 

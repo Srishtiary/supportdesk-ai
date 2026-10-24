@@ -22,5 +22,5 @@ Understanding the scope of warranty coverage helps ensure quick service resoluti
 To avail of repair or replacement services under the standard 1-year warranty:
 1. **Locate Invoice**: Download your GST invoice from "My Orders" on the VoltKart portal or app.
 2. **Authorized Service Centers**: Visit the nearest authorized service center of the respective brand (such as Asus, Samsung, HP, Lenovo, Dell, Sony, or Apple) with the product, original bill, and product packaging.
-3. **VoltKart Assistance**: If an authorized brand service center is unavailable within 50 km of your location, contact VoltKart Customer Care at 1800-890-VOLT or support@voltkart.in. We will facilitate factory repairs or help coordinate pickup with the brand service team.
+3. **VoltKart Assistance**: If an authorized brand service center is unavailable within 50 km of your location, contact VoltKart Customer Care at 1800-890-VOLT (open 9:00 AM to 9:00 PM IST, Monday through Sunday) or support@voltkart.in. We will facilitate factory repairs or help coordinate pickup with the brand service team.
 4. **Resolution Timeline**: Most service repairs take between 7 to 14 business days depending on spare part availability.

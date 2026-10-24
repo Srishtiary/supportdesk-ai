@@ -6,7 +6,7 @@ At VoltKart, we take product condition and accuracy seriously. If an order arriv
 
 To expedite a claim for damaged, defective, or incorrect shipments, issues must be reported within 48 hours of physical package delivery:
 - **Intact Packaging Warning**: If the outer shipping carton shows severe crushing, punctures, or broken security tape upon delivery, note this with the courier or refuse delivery.
-- **Reporting Channels**: Contact VoltKart customer support within 48 hours via "My Orders", email at support@voltkart.in, or by calling our toll-free number 1800-890-VOLT.
+- **Reporting Channels**: Contact VoltKart customer support within 48 hours via "My Orders", email at support@voltkart.in, or by calling our toll-free number 1800-890-VOLT (available 9:00 AM to 9:00 PM IST, 7 days a week).
 - **Required Documentation**:
   - High-resolution photos or a continuous unboxing video showing the outer package with the shipping label visible.
   - Clear images of the device, visible damage, or the incorrect serial number/model label.

@@ -17,7 +17,7 @@ All digital payments qualify for promotional bank discount codes and instant cas
 
 For customers who prefer paying at their doorstep upon physical receipt of the package:
 - **Order Value Limits**: Cash on Delivery is available for order totals between Rs 299 and Rs 10,000 across serviceable postal codes.
-- **Handling Charges**: COD orders above Rs 2,000 enjoy free cash handling. Orders below Rs 2,000 incur a standard convenience fee of Rs 40.
+- **Handling Charges**: COD orders of Rs 2,000 and above qualify for free cash handling. Orders below Rs 2,000 incur a standard convenience fee of Rs 40.
 - **Payment at Doorstep**: Courier personnel accept exact cash, and many logistics executives now carry QR code scanners allowing instant UPI payment upon delivery.
 - **Refunds for COD**: Returned or cancelled COD merchandise is refunded directly to your bank account via NEFT/IMPS within 5-7 business days or credited instantly as VoltKart store credit.
 

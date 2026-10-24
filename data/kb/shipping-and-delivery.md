@@ -8,7 +8,7 @@ VoltKart offers competitive and transparent delivery charges for all orders:
 - **Free Standard Shipping**: All orders with a total cart value of Rs 999 or above qualify for 100% free standard delivery anywhere in India.
 - **Standard Shipping Fee**: For orders with a cart value below Rs 999, a nominal flat shipping fee of Rs 49 is applied at checkout.
 - **Express Shipping**: Available on eligible pin codes in Tier 1 cities for a flat fee of Rs 149, regardless of the order total.
-- **Cash on Delivery Charges**: COD orders above Rs 2,000 enjoy free COD handling, while orders below Rs 2,000 carry a nominal handling fee of Rs 40. COD is capped at a maximum order value of Rs 10,000.
+- **Cash on Delivery Charges**: COD orders of Rs 2,000 and above qualify for free COD handling, while orders below Rs 2,000 carry a nominal handling fee of Rs 40. COD is capped at a maximum order value of Rs 10,000 (with a minimum cart value of Rs 299).
 
 Shipping fees are clearly itemized on your final checkout screen before you confirm payment.
 
