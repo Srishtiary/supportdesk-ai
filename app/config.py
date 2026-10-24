@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env")
 
     gemini_api_key: str
-    llm_model: str = "gemini-2.5-flash"
+    llm_model: str = "gemini-flash-lite-latest"
     embed_model: str = "gemini-embedding-001"
 
     # Confidence thresholds used by the router
