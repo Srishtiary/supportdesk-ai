@@ -6,6 +6,5 @@ pydantic-settings
 python-dotenv
 google-genai
 chromadb
-streamlit
-requests
+httpx
 pytest
