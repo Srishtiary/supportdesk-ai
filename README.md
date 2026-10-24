@@ -230,5 +230,4 @@ tests/test_triage.py::... PASSED (5 tests)
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
+
